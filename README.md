@@ -20,7 +20,7 @@ Nasıl indirebilirim ?
 
 - $git clone https://github.com/berkantaksyy/BArandommacchanger.git
 
-Nasıl kullanıyorm 
+Nasıl kullanabilirm ? 
 
 - $python BArandommacchanger.py --help
 
