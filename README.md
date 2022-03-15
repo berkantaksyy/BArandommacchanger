@@ -25,6 +25,6 @@ Nasıl kullanabilirm ?
 - $python BArandommacchanger.py --help
 
 
-UYARI!! : Eğer kali linux veya farklı bir linux sisteminde wifi kart olmadan kullanıyorsanız sizin internetinizin kesilmesine sebeb olabilir. 
+UYARI!! : Eğer kali linux veya farklı bir linux sisteminde wifi kart olmadan kullanıyorsanız sizin internetinizin kesilmesine sebep olabilir. 
 Örneğin : Komut satırına İfconfig yazdığınızda karşınıza sadece eth0 geliyorsa, BAmacchanger'ı calıştırdığınızda internet bağlantınız kopar.
 Cözüm : İşletim sisteminizi kapatıp açtığınızda problem gidecektir. 
